@@ -1,0 +1,22 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: #50B2D9;
+    height: 100%;
+}
+
+.color-white {
+    color: white;
+}
+
+.material-icons.font-size-64 {
+    font-size: 64px;
+}
+
+.height-100 {
+    height: 100%
+}
+
+.width-100 {
+    width: 100%
+}
