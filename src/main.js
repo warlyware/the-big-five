@@ -12,4 +12,4 @@ database.on('value', snapshot => {
     console.log(snapshot.val());
 });
 require('./app/application.module');
-require('./app/application.controller');
+require('./app/application.run');
